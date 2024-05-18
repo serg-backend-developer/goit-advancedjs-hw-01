@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-app-template",
+  "name": "goit-advancedjs-hw-01",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,7 @@
     "vite": "^4.5.2",
     "glob": "^8.1.0"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Sergey Shevchenko <sergiishevchenko017@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@vimeo/player": "^2.20.1",
