@@ -29,6 +29,7 @@ const handleSubmit = e => {
   e.preventDefault();
 
   formRef.reset();
+  console.log(formState);
   localStorage.removeItem(localStorageKey);
   Object.keys(formState).forEach(el => (formState[el] = ''));
 };
